@@ -13,7 +13,7 @@ Each technique has its own folder. Inside the folder, one of two things can happ
 
 Folders with _.rules_ files are indicative that a rule in the mentioned format is available. 
 
-*The following rulesets are currently in use by this project:Â*
+**The following rulesets are currently in use by this project:**
 
 * Emerging Threats Open - https://rules.emergingthreats.net/open/suricata-4.0/
 
