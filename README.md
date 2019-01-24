@@ -23,6 +23,6 @@ Feel free to reach out to me via Twitter ([@0xtf](https://twitter.com/0xtf)) if 
 
 ## MITRE ATT&CK Navigator
 
-Browse supported techniques using [this URL](https://mitre-attack.github.io/attack-navigator/enterprise/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2F0xtf%2Fnsm-mitre%2Fmaster%2FNavigator-Layer.json).
+Browse supported techniques using [this URL](https://mitre-attack.github.io/attack-navigator/enterprise/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2F0xtf%2Fnsm-attack%2Fmaster%2FNavigator-Layer.json).
 
 The Navigator layer will include the applicable Signature ID's that provide coverage for a certain technique. 
