@@ -21,7 +21,7 @@
 			"techniqueID": "T1028",
 			"tactic": "execution",
 			"color": "#31a354",
-			"comment": "",
+			"comment": "2026849\n2026850",
 			"enabled": true,
 			"metadata": []
 		},
@@ -29,7 +29,7 @@
 			"techniqueID": "T1028",
 			"tactic": "lateral-movement",
 			"color": "#31a354",
-			"comment": "",
+			"comment": "2026849\n2026850",
 			"enabled": true,
 			"metadata": []
 		}
