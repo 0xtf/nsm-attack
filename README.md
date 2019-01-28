@@ -2,7 +2,7 @@
 
 ## About
 
-The idea behind this project is to categorize and develop, where feasible, rules against the MITRE ATT&CK framework. 
+The idea behind this project is to categorize and develop, where feasible, Suricata *(and general NSM)* rules by mapping them against the [MITRE ATT&CK framework](https://attack.mitre.org). 
 
 ### How does it work?
 
@@ -11,15 +11,13 @@ Each technique has its own folder. Inside the folder, one of two things can happ
 * We will link to existing rules from known rulesets if a rule already exists
 * We will share the rule in the format used by Suricata
 
-Folders with _.rules_ files are indicative that a rule in the mentioned format is available. 
+**The following rulesets are currently considered by this project:**
 
-**The following rulesets are currently in use by this project:**
-
-* Emerging Threats Open - https://rules.emergingthreats.net/open/suricata-4.0/
+* [Emerging Threats Open](https://rules.emergingthreats.net/open/suricata-4.0/)
 
 ## Have something to share? 
 
-Feel free to reach out to me via Twitter ([@0xtf](https://twitter.com/0xtf)) if you have some rules you'd like to share.
+Feel free to reach out to me via Twitter ([@0xtf](https://twitter.com/0xtf)) if you have some rules you'd like to share or comments/questions/tips.
 
 ## MITRE ATT&CK Navigator
 
