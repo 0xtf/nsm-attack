@@ -56,6 +56,22 @@
 			"comment": "2025725\n",
 			"enabled": true,
 			"metadata": []
+		},
+		{
+			"techniqueID": "T1100",
+			"tactic": "persistence",
+			"color": "#31a354",
+			"comment": "Several signatures match. More information: https://github.com/0xtf/nsm-attack/blob/master/T1100/README.md",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "T1100",
+			"tactic": "privilege-escalation",
+			"color": "#31a354",
+			"comment": "Several signatures match. More information: https://github.com/0xtf/nsm-attack/blob/master/T1100/README.md",
+			"enabled": true,
+			"metadata": []
 		}
 	],
 	"gradient": {
