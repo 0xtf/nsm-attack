@@ -72,6 +72,14 @@
 			"comment": "Several signatures match. More information: https://github.com/0xtf/nsm-attack/blob/master/T1100/README.md",
 			"enabled": true,
 			"metadata": []
+		},
+		{
+			"techniqueID": "T1046",
+			"tactic": "discovery",
+			"color": "#31a354",
+			"comment": "Several signatures match. More information: https://github.com/0xtf/nsm-attack/tree/master/T1046",
+			"enabled": true,
+			"metadata": []
 		}
 	],
 	"gradient": {
