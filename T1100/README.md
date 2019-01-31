@@ -6,7 +6,7 @@
 
 # Notes
 
-ET Open has several signatures, updated regularly, for the detection of [T1100](https://attack.mitre.org/techniques/T1100/). All signatures are labeled as **ET WEB__SERVER ATTACKER WebShell A**, where A equals the name of a particular shell or attack. 
+ET Open has several signatures, updated regularly, for the detection of [T1100](https://attack.mitre.org/techniques/T1100/). All signatures are labeled as **ET WEB_SERVER ATTACKER WebShell A**, where A equals the name of a particular shell or attack. 
 
 Example: 
 
