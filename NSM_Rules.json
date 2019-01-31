@@ -99,6 +99,10 @@
 		{
 			"color": "#fdae6b",
 			"label": "Limitations due to source"
+		},
+		{
+			"label": "Partly covered",
+			"color": "#ffe766"
 		}
 	],
 	"metadata": [],
