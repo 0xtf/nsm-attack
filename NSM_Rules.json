@@ -40,6 +40,22 @@
 			"comment": "2025726\n",
 			"enabled": true,
 			"metadata": []
+		},
+		{
+			"techniqueID": "T1085",
+			"tactic": "defense-evasion",
+			"color": "#fdae6b",
+			"comment": "2025725\n",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "T1085",
+			"tactic": "execution",
+			"color": "#fdae6b",
+			"comment": "2025725\n",
+			"enabled": true,
+			"metadata": []
 		}
 	],
 	"gradient": {
@@ -53,12 +69,12 @@
 	},
 	"legendItems": [
 		{
-			"label": "Covered",
-			"color": "#31a354"
+			"color": "#31a354",
+			"label": "Covered"
 		},
 		{
-			"label": "Partly Covered",
-			"color": "#fce93b"
+			"color": "#fdae6b",
+			"label": "Limitations due to source"
 		}
 	],
 	"metadata": [],
