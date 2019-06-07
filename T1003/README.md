@@ -7,7 +7,7 @@
 
 # Notes
 
-* [T1003](https://attack.mitre.org/techniques/T1003/)
+* Credential Dumping - [T1003](https://attack.mitre.org/techniques/T1003/)
 
 # Packet capture example:
 
