@@ -7,7 +7,7 @@
 
 # Notes
 
-* [T1028](https://attack.mitre.org/techniques/T1028/)
+* Windows Remote Management - [T1028](https://attack.mitre.org/techniques/T1028/)
 
 # Packet capture
 
