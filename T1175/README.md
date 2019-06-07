@@ -4,6 +4,7 @@
 | --------- | --------- | ------------------------------------------------------------------------------ | --------- |
 | ET Pro    |  2027190  | ET NETBIOS DCERPC DCOM ShellExecute - Likely Lateral Movement                  |    Yes    |
 | ET Pro    |  2027189  | ET NETBIOS DCERPC DCOM ExecuteShellCommand Call - Likely Lateral Movement      |    Yes    |
+| ET Open   |  2021616  | ET TROJAN PSEmpire Checkin via POST                                            |    Yes    |
 
 # Notes
 
