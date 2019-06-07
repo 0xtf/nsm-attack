@@ -7,9 +7,9 @@
 
 # Notes
 
-* [T1035](https://attack.mitre.org/techniques/T1035/)
+* Service Execution - [T1035](https://attack.mitre.org/techniques/T1035/)
 
-Coverage of this technique is limited to the software/user agent/identifiers mapped above. 
+Coverage of this technique is limited to the software/user agent/identifiers mapped above and when done over the network. 
 
 # Packet capture example:
 
