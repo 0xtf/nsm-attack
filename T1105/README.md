@@ -6,9 +6,13 @@
 
 # Notes
 
-As the signature name entails, this rule will only trigger when RunDll runs over SMB. Due to the nature of our sources in NSM, detection of [T1085](https://attack.mitre.org/techniques/T1085/) is therefor limited to RunDll between hosts.
+* Remote File Copy - [T1105](https://attack.mitre.org/techniques/T1105/)
 
-Packet capture example:
+Coverage of this technique is limited to the software/user agent/identifiers mapped above and when done over the network. 
+
+# Packet capture example:
+
+**2027267**
 
 ```
 ..)!~a..^.."..E.....@...^.............I30.....P....s.......SMB@...............................-..................Hm<...R.l9.......................................@...x.:.........W.i.n.d.o.w.s.\.S.y.s.t.e.m.3.2.\.s.q.l.s.r.v.3.2...d.l.l.
