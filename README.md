@@ -14,6 +14,7 @@ Each technique has its own folder. Inside the folder, one of two things can happ
 **The following rulesets are currently considered by this project:**
 
 * [Emerging Threats Open](https://rules.emergingthreats.net/open/suricata-4.0/)
+* Emerging Threats Pro
 
 ## Have something to share? 
 
