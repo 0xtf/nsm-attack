@@ -21,7 +21,7 @@
 			"techniqueID": "T1028",
 			"tactic": "execution",
 			"color": "#31a354",
-			"comment": "2026849\n2026850",
+			"comment": "",
 			"enabled": true,
 			"metadata": []
 		},
@@ -29,7 +29,7 @@
 			"techniqueID": "T1028",
 			"tactic": "lateral-movement",
 			"color": "#31a354",
-			"comment": "2026849\n2026850",
+			"comment": "",
 			"enabled": true,
 			"metadata": []
 		},
@@ -37,7 +37,7 @@
 			"techniqueID": "T1047",
 			"tactic": "execution",
 			"color": "#31a354",
-			"comment": "2025726\n",
+			"comment": "",
 			"enabled": true,
 			"metadata": []
 		},
@@ -45,7 +45,7 @@
 			"techniqueID": "T1085",
 			"tactic": "defense-evasion",
 			"color": "#fdae6b",
-			"comment": "2025725\n",
+			"comment": "",
 			"enabled": true,
 			"metadata": []
 		},
@@ -53,7 +53,7 @@
 			"techniqueID": "T1085",
 			"tactic": "execution",
 			"color": "#fdae6b",
-			"comment": "2025725\n",
+			"comment": "",
 			"enabled": true,
 			"metadata": []
 		},
@@ -61,7 +61,7 @@
 			"techniqueID": "T1100",
 			"tactic": "persistence",
 			"color": "#31a354",
-			"comment": "Several signatures match. More information: https://github.com/0xtf/nsm-attack/blob/master/T1100/README.md",
+			"comment": "",
 			"enabled": true,
 			"metadata": []
 		},
@@ -69,7 +69,7 @@
 			"techniqueID": "T1100",
 			"tactic": "privilege-escalation",
 			"color": "#31a354",
-			"comment": "Several signatures match. More information: https://github.com/0xtf/nsm-attack/blob/master/T1100/README.md",
+			"comment": "",
 			"enabled": true,
 			"metadata": []
 		},
@@ -77,7 +77,55 @@
 			"techniqueID": "T1046",
 			"tactic": "discovery",
 			"color": "#31a354",
-			"comment": "Several signatures match. More information: https://github.com/0xtf/nsm-attack/tree/master/T1046",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "T1003",
+			"tactic": "credential-access",
+			"color": "#31a354",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "T1175",
+			"tactic": "lateral-movement",
+			"color": "#31a354",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "T1086",
+			"tactic": "execution",
+			"color": "#31a354",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "T1105",
+			"tactic": "command-and-control",
+			"color": "#31a354",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "T1105",
+			"tactic": "lateral-movement",
+			"color": "#31a354",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "T1035",
+			"tactic": "execution",
+			"color": "#31a354",
+			"comment": "",
 			"enabled": true,
 			"metadata": []
 		}
@@ -101,12 +149,12 @@
 			"label": "Limitations due to source"
 		},
 		{
-			"label": "Partly covered",
-			"color": "#ffe766"
+			"color": "#ffe766",
+			"label": "Partly covered"
 		}
 	],
 	"metadata": [],
 	"showTacticRowBackground": false,
-	"tacticRowBackground": "#dddddd",
+	"tacticRowBackground": "#8ec843",
 	"selectTechniquesAcrossTactics": true
 }
