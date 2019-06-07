@@ -6,9 +6,11 @@
 
 # Notes
 
-ET Open has several signatures, updated regularly, for the detection of [T1100](https://attack.mitre.org/techniques/T1100/). All signatures are labeled as **ET WEB_SERVER ATTACKER WebShell A**, where A equals the name of a particular shell or attack. 
+* Web Shell - [T1100](https://attack.mitre.org/techniques/T1100/)
 
-Examples: 
+ET Open has several signatures, updated regularly, for the detection of this technique. All signatures are labeled as **ET WEB_SERVER ATTACKER WebShell A**, where A equals the name of a particular shell or attack. 
 
-- 2020096 - ET WEB_SERVER ATTACKER WebShell - 1337w0rm - Landing Page
-- 2020555 - ET WEB_SERVER ATTACKER WebShell - Weevely - Downloaded
+**Examples:**
+
+* 2020096 - ET WEB_SERVER ATTACKER WebShell - 1337w0rm - Landing Page
+* 2020555 - ET WEB_SERVER ATTACKER WebShell - Weevely - Downloaded
