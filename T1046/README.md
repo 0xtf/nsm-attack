@@ -9,7 +9,7 @@
 
 * Network Service Scanning - [T1046](https://attack.mitre.org/techniques/T1046/)
 
-ET Open has several signatures, updated regularly, for the detection of [T1046](https://attack.mitre.org/techniques/T1046/). All signatures are labeled as **ET SCAN A** or **GPL SCAN A**, where A equals the name of a particular service or scanning tool. 
+ET Open has several signatures, updated regularly, for the detection of this technique. All signatures are labeled as **ET SCAN A** or **GPL SCAN A**, where A equals the name of a particular service or scanning tool. 
 
 Examples: 
 
