@@ -23,3 +23,10 @@ Feel free to reach out to me via Twitter ([@0xtf](https://twitter.com/0xtf)) if 
 ## MITRE ATT&CK Navigator
 
 Browse supported techniques using [this URL](https://mitre-attack.github.io/attack-navigator/enterprise/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2F0xtf%2Fnsm-attack%2Fmaster%2FNSM_Rules.json).
+
+### Sponsorship
+
+<img align="right" width="150" height="170" src="https://3coresec.com/assets/imgs/social-logo.png">
+If you're interested in working in this project, [3CORESec](https://3coresec.com) has a sponsorship program that allows you to get paid for your contributions to open source projects. 
+
+[Get in touch](https://3coresec.com/contact.html) for more information!
