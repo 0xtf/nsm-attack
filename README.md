@@ -27,6 +27,7 @@ Browse supported techniques using [this URL](https://mitre-attack.github.io/atta
 ### Sponsorship
 
 <img align="right" width="150" height="170" src="https://3coresec.com/assets/imgs/social-logo.png">
+
 If you're interested in working in this project, [3CORESec](https://3coresec.com) has a sponsorship program that allows you to get paid for your contributions to open source projects. 
 
 [Get in touch](https://3coresec.com/contact.html) for more information!
