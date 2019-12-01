@@ -24,7 +24,7 @@ Feel free to reach out to me via Twitter ([@0xtf](https://twitter.com/0xtf)) if 
 
 Browse supported techniques using [this URL](https://mitre-attack.github.io/attack-navigator/enterprise/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2F0xtf%2Fnsm-attack%2Fmaster%2FNSM_Rules.json).
 
-### Sponsorship
+## Sponsorship
 
 <img align="right" width="120" height="136" src="https://3coresec.com/assets/imgs/social-logo.png">
 
